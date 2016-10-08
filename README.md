@@ -2,6 +2,7 @@
 
 * [Gaffer On Games](http://gafferongames.com/)
   * [Game Networking](http://gafferongames.com/networking-for-game-programmers/)
+   * [Summary](http://blog.wolfire.com/2011/03/GDC-Session-Summary-Halo-networking)
   * [Networked Physics](http://gafferongames.com/networked-physics/)
   * [Building a Game Network Protocol](http://gafferongames.com/building-a-game-network-protocol/)
   
@@ -15,3 +16,9 @@
   
 * Other Lists of Resources
   * [Game Network Programming](http://www.gamenetworkprogramming.com/articles.html)
+
+## Unsortedd
+http://www.codeofhonor.com/blog/wp-content/uploads/2012/04/Patrick-Wyatt-Writing-reliable-online-game-services.pdf
+http://www.pingz.com/wordpress/wp-content/uploads/2009/11/tribes_networking_model.pdf
+http://www.gamasutra.com/view/news/126022/Opinion_Synchronous_RTS_Engines_And_A_Tale_of_Desyncs.php
+
